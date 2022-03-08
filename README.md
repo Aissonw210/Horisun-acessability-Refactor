@@ -11,10 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
+# Header 1 </Hello Everyone>
+## Header 2 Biography 
+### Header 3 
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
 - Bulleted
 - List
 
